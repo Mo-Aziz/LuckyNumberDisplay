@@ -1,2 +1,0 @@
-# LuckyNumberDisplay
-Created with CodeSandbox
